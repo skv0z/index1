@@ -1,0 +1,39 @@
+.parent {
+    background-image: url(https://images.ctfassets.net/wdjnw2prxlw8/6HRSjw4NJnvoQEKuDF9BsM/25bd19e9dfbfa9be0137096f74c454fa/glass_buildings_view_from_street_to_sky.jpg);
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+}
+
+.first {
+    text-align: center;
+    height: 100px;
+    padding-top: 100px;
+    font-size: large;
+    background: linear-gradient(grey 100px);
+}
+
+a {
+    text-decoration: none;
+    margin-right: 10px;
+    color: black;
+}
+
+a:hover {
+    color: orange;
+}
+
+.second {
+    text-align: center;
+    margin-top: 100px;
+    font-size: x-large;
+}
+
+button {
+    border-radius: 10px;
+    border: none;
+    width: 200px;
+    height: 50px;
+    background-color: orange;
+    color: white;
+}
